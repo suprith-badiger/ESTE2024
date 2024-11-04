@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace EKart.Pages;
+namespace e_kart.Pages;
 
 public class PrivacyModel : PageModel
 {

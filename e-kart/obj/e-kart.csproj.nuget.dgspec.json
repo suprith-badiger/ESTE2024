@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ESTE2024\\EKart\\EKart.csproj": {}
+    "C:\\ESTE2024\\EKart\\e-kart\\e-kart.csproj": {}
   },
   "projects": {
-    "C:\\ESTE2024\\EKart\\EKart.csproj": {
+    "C:\\ESTE2024\\EKart\\e-kart\\e-kart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ESTE2024\\EKart\\EKart.csproj",
-        "projectName": "EKart",
-        "projectPath": "C:\\ESTE2024\\EKart\\EKart.csproj",
+        "projectUniqueName": "C:\\ESTE2024\\EKart\\e-kart\\e-kart.csproj",
+        "projectName": "e-kart",
+        "projectPath": "C:\\ESTE2024\\EKart\\e-kart\\e-kart.csproj",
         "packagesPath": "C:\\Users\\supri\\.nuget\\packages\\",
-        "outputPath": "C:\\ESTE2024\\EKart\\obj\\",
+        "outputPath": "C:\\ESTE2024\\EKart\\e-kart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\supri\\AppData\\Roaming\\NuGet\\NuGet.Config",
